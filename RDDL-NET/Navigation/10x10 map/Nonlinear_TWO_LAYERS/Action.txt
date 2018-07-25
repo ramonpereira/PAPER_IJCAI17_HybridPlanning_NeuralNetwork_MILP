@@ -1,0 +1,2 @@
+action: move[$x],action: move[$y],states: location[$x],states: location[$y]
+0.3320377856738716,-0.5740284433548912,8.873047250861017,8.561600206524771
